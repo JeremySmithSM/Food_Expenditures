@@ -1,6 +1,10 @@
 # Food Expenditures
 
 
+
+### [Database Conceptual Design](https://github.com/JeremySmithSM/Food_Expenditures/blob/master/FoodCostsDatabaseConceptualDesign.pdf)
+
+
 Food is great. It is a necessity of life and can also be a source of contentment, satisfaction, and even pleasure. As such, food comes in varying prices, depending on the quality, quantity, and convenience. It can be helpful for an individual or family to know how they spend their earnings on food.
 
 This application allows users to track how much money they have spent on food. Food purchased will be entered by purchase and not by individual items bought. 
