@@ -2,7 +2,7 @@
 
 
 
-### [Database Conceptual Design](https://github.com/JeremySmithSM/Food_Expenditures/blob/master/FoodCostsDatabaseConceptualDesign.pdf)
+### [Database Design](https://github.com/JeremySmithSM/Food_Expenditures/blob/master/FoodCostsDatabaseDesign.pdf)
 
 
 Food is great. It is a necessity of life and can also be a source of contentment, satisfaction, and even pleasure. As such, food comes in varying prices, depending on the quality, quantity, and convenience. It can be helpful for an individual or family to know how they spend their earnings on food.
